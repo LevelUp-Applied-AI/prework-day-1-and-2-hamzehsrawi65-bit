@@ -22,28 +22,28 @@
 
 ## Evidence Checklist
 
-- [x] Screenshot: OS version
-<img width="706" height="377" alt="image" src="https://github.com/user-attachments/assets/fa6e4809-d52a-4a83-b7d2-2421195b4ad9" />
+- [x] Screenshot: OS version  
+![os-version](https://github.com/user-attachments/assets/fa6e4809-d52a-4a83-b7d2-2421195b4ad9)
 
-- [x] Screenshot: RAM and CPU details
-<img width="711" height="268" alt="ram-cpu" src="https://github.com/user-attachments/assets/6ca818b7-1d64-4e7b-920d-874193798da1" />
+- [x] Screenshot: RAM and CPU details  
+![ram-cpu](https://github.com/user-attachments/assets/6ca818b7-1d64-4e7b-920d-874193798da1)
 
-- [x] Screenshot: Free disk space
-<img width="371" height="108" alt="disk-space" src="https://github.com/user-attachments/assets/2aea1ec2-7cdb-48f8-bcb7-3d7b28abd5dc" />
+- [x] Screenshot: Free disk space  
+![disk-space](https://github.com/user-attachments/assets/2aea1ec2-7cdb-48f8-bcb7-3d7b28abd5dc)
 
-- [x] Screenshot: Internet speed test result
-<img width="1061" height="458" alt="internet-speed" src="https://github.com/user-attachments/assets/6785b66f-ebc5-4018-bf0b-05b876e91a4e" />
+- [x] Screenshot: Internet speed test result  
+![internet-speed](https://github.com/user-attachments/assets/6785b66f-ebc5-4018-bf0b-05b876e91a4e)
 
-- [x] Screenshot: Admin rights confirmed
-<img width="1151" height="661" alt="admin-rights" src="https://github.com/user-attachments/assets/338b09c3-3680-4d37-9bc2-2cf6234bf3c2" />
+- [x] Screenshot: Admin rights confirmed  
+![admin-rights](https://github.com/user-attachments/assets/338b09c3-3680-4d37-9bc2-2cf6234bf3c2)
 
 **Windows only:**
 
-- [x] Screenshot: `wsl -l -v` output showing WSL 2
-<img width="1303" height="349" alt="wsl-list" src="https://github.com/user-attachments/assets/3f3e0481-cff0-454b-9771-b1334cf71c31" />
+- [x] Screenshot: `wsl -l -v` output showing WSL 2  
+![wsl-list](https://github.com/user-attachments/assets/3f3e0481-cff0-454b-9771-b1334cf71c31)
 
-- [x] Screenshot: `wsl --status` output
-<img width="1300" height="397" alt="wsl-status" src="https://github.com/user-attachments/assets/22ac7319-68df-4fdb-8c17-337fb94b2fb5" />
+- [x] Screenshot: `wsl --status` output  
+![wsl-status](https://github.com/user-attachments/assets/22ac7319-68df-4fdb-8c17-337fb94b2fb5)
 
 ---
 
