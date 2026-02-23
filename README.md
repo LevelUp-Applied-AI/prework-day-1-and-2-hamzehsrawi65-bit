@@ -28,3 +28,8 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+## About
+This repository contains my AI.SPIRE pre-work submissions.
+
+## Setup
+Workflow: branch → commit → push → pull request
